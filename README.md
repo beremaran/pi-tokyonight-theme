@@ -12,10 +12,10 @@ As a pi package (local folder — relative paths resolve against the settings fi
 pi install ./pi-tokyonight-theme
 ```
 
-After pushing your fork to GitHub:
+Install from GitHub:
 
 ```
-pi install git:github.com/<you>/pi-tokyonight-theme
+pi install git:github.com/beremaran/pi-tokyonight-theme
 ```
 
 Manual alternative: copy the theme files into your global themes directory:
