@@ -1,6 +1,6 @@
 {
   "name": "pi-tokyonight-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tokyo Night themes and a variant-switcher extension for Pi",
   "keywords": ["pi-package", "pi", "tokyonight", "terminal-theme", "pi-extension"],
   "homepage": "https://github.com/beremaran/pi-tokyonight-theme",
