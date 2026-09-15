@@ -9,7 +9,7 @@ This is a Pi package, not an OpenCode plugin.
 - Pi with package, theme, and extension support. This package was validated with Pi 0.85.1; it does not declare a separate minimum version.
 - An interactive Pi session to use `/tokyonight` or `/settings`.
 
-Pi loads the bundled TypeScript extension directly. The package has no runtime dependencies, build step, or npm publication requirement.
+Pi loads the bundled TypeScript extension directly. The package has no runtime dependencies or build step.
 
 ## Installation
 
