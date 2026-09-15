@@ -1,8 +1,13 @@
 {
   "name": "pi-tokyonight-theme",
   "version": "1.0.0",
-  "description": "Tokyo Night theme for pi (night / storm / moon / day variants), forked from folke/tokyonight.nvim",
-  "keywords": ["pi-package", "tokyonight", "theme"],
+  "description": "Tokyo Night themes and a variant-switcher extension for Pi",
+  "keywords": ["pi-package", "pi", "tokyonight", "terminal-theme", "pi-extension"],
+  "homepage": "https://github.com/beremaran/pi-tokyonight-theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beremaran/pi-tokyonight-theme.git"
+  },
   "license": "MIT",
   "pi": {
     "extensions": ["./extensions"],
